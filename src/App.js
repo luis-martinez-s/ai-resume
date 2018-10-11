@@ -15,7 +15,7 @@ class App extends Component {
 class TopBar extends Component {
   render() {
     return (
-      <div id='topbar'>
+      <div id='topbar' className='bright-green-light'>
       <span className='cpu-text' id='top-text'>Personal terminal</span>
       <span id='top-block'></span>
       </div>
