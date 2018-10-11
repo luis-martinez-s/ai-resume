@@ -1,23 +1,16 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import TopBar from './components/TopBar';
+import MenuBox from './components/MenuBox';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <TopBar />
-      </div>
-    );
-  }
-}
-
-class TopBar extends Component {
-  render() {
-    return (
-      <div id='topbar' className='bright-green-light'>
-      <span className='cpu-text' id='top-text'>Personal terminal</span>
-      <span id='top-block'></span>
+        <div id='main-container'>
+          <TopBar />
+          <MenuBox />
+        </div>
       </div>
     );
   }
