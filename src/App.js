@@ -6,7 +6,18 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      
+        <TopBar />
+      </div>
+    );
+  }
+}
+
+class TopBar extends Component {
+  render() {
+    return (
+      <div id='topbar'>
+      <span className='cpu-text' id='top-text'>Personal terminal</span>
+      <span id='top-block'></span>
       </div>
     );
   }
