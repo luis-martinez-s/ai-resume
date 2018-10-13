@@ -34,6 +34,17 @@
     font-weight: 1000;
 }
 
+.cpu-p > p {
+    font-family: hellovetica, roboto;
+    font-size: 0.67rem;
+    line-height: 1.7rem;
+}
+
+.number {
+    font-family: Roboto;
+    font-size: 1.1rem;
+}
+
 .truncate {
     white-space: nowrap;
     overflow: hidden;
@@ -139,6 +150,7 @@
 
 #main-content-container {
     display: flex;
+    flex-direction: column;
     margin-left: 5rem;
     flex-basis: 75%;
 }
@@ -146,7 +158,8 @@
 #titles-container {
     display: flex;
     flex-direction: column;
-    flex-basis: 90%;
+    flex-basis: 31%;
+    width: 90%;
 }
 
 .title-box {
@@ -192,6 +205,35 @@
   font-size: 0.85rem;
   font-weight: 1000;
   line-height: 1.7;
+}
+
+#content-box {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 68%;
+}
+
+#content-headline {
+    background-color: var(--bright-green);
+    height: 1rem;
+    width: 100%;
+}
+
+#content-textbox-wrapper {
+    margin: 0 -2px 0 -2px;
+    border: 2px solid var(--bright-green);
+    overflow: hidden;
+    height: 100%;
+}
+
+#content-textbox {
+    color: var(--white);
+    padding: 0 1rem 0 1rem;
+    max-height: 22.1rem;
+    width: 100%;
+    overflow-y: scroll;
+    box-sizing: content-box;
 }
 
 .test-box {

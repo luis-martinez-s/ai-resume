@@ -3,6 +3,7 @@ import './App.css';
 import TopBar from './components/TopBar';
 import MenuBox from './components/MenuBox';
 import Titles from './components/Titles';
+import Content from './components/Content';
 
 class App extends Component {
   constructor(props) {
@@ -167,6 +168,8 @@ class App extends Component {
                 <Titles title={this.state.titleState[2].title} titleClass={this.state.titleState[2].titleClass} hoverHandle={this.onHoverTitle(2)} defaultHandle={this.onDefaultTitle(2)} focusHandle={this.onFocusTitle(2)}/>
 
               </div>
+
+                <Content />
 
             </main>
 
