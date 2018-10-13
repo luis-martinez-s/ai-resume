@@ -25,6 +25,15 @@
     align-items: center;
     justify-content: space-between;
     margin-bottom: 2rem;
+    min-width: 708px;
+}
+
+p {
+    margin: 0 0 0 0;
+}
+
+a, a:hover {
+    color: var(--bright-green);
 }
 
 .cpu-text {
@@ -34,10 +43,10 @@
     font-weight: 1000;
 }
 
-.cpu-p > p {
+.cpu-p p , .cpu-p ul , .cpu-p li {
     font-family: hellovetica, roboto;
-    font-size: 0.67rem;
-    line-height: 1.7rem;
+    font-size: 0.7rem;
+    line-height: 1.5rem;
 }
 
 .number {
@@ -229,7 +238,7 @@
 
 #content-textbox {
     color: var(--white);
-    padding: 0 1rem 0 1rem;
+    padding: 1rem 1rem 0 1rem;
     max-height: 22.1rem;
     width: 100%;
     overflow-y: scroll;
@@ -242,6 +251,7 @@
     border: 1px solid white;
 }
 
+/* At some point, make the layout responsive: toggle side menu boxes to a menu */
 /* @media (max-width: 768px) {
 Fill with responsive styles
 } */

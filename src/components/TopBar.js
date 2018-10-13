@@ -4,7 +4,7 @@ class TopBar extends Component {
     render() {
       return (
         <nav id='topbar'>
-        <span className='cpu-text' id='top-text'>Personal terminal</span>
+        <h1 className='cpu-text' id='top-text'>Luis Martinez Resume</h1>
         <span id='top-block'></span>
         </nav>
       );

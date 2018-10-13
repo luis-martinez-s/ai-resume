@@ -10,7 +10,8 @@ class Content extends Component {
                 <div id='content-headline'></div>
                 <div id='content-textbox-wrapper'>
                     <div id='content-textbox' className='cpu-p'>
-                        <p>Scientific research in the area of Computational Chemistry<br />Publication of <span className='number'>3</span> scientific works in scientific journals<br />I work every day with:</p>
+                    {this.props.content}
+                        {/* <p>Scientific research in the area of Computational Chemistry<br />Publication of <span className='number'>3</span> scientific works in scientific journals<br />I work every day with:</p> */}
                     </div>
                 </div>
             </div>
