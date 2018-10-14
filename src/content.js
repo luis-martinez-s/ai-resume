@@ -156,7 +156,7 @@ my new skills into practice.</p><br />
         <span>
         <ul>
             <li><a href='https://luismartinezs.github.io' target='_blank'>My website</a></li>
-            <li><a href='https://luis-martinez-s.github.io/social-card/' target='_blank'>Social card</a></li>
+            <li><a href='https://luismartinezs.github.io/social-card/' target='_blank'>Social card</a></li>
             <li><a href='https://codepen.io/saito200/full/qJdXjY/' target='_blank'>Pomodoro clock</a></li>
             <li><a href='https://codepen.io/saito200/full/gBbbza/' target='_blank'>Retro calculator</a></li>
             <li><a href='https://codepen.io/saito200/full/yxmqBJ/' target='_blank'>Drum machine</a></li>
