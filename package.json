@@ -2,7 +2,9 @@
   "name": "ai-resume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://luismartinezs.github.io/ai-resume",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4"
@@ -11,6 +13,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

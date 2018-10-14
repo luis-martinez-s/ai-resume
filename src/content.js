@@ -44,7 +44,7 @@ const CONTENT = [
         <p><span className='number'>08020</span> Barcelona Spain</p><br />
         <p><span className='number'>(+34)631210170</span></p><br />
         <p>martinez.s.luis@gmail.com</p><br />
-        <p><a href='https://www.linkedin.com/in/luismarsu/' target='_blank'>LinkedIn</a>, <a href='https://github.com/luis-martinez-s' target='_blank'>GitHub</a>, <a href='https://codepen.io/luis-martinez-s/' target='_blank'>CodePen</a>, <a href='https://stackoverflow.com/users/2296052/user2296052' target='_blank'>Stack overflow</a></p><br />
+        <p><a href='https://www.linkedin.com/in/luismarsu/' target='_blank'>LinkedIn</a>, <a href='https://github.com/luismartinezs' target='_blank'>GitHub</a>, <a href='https://codepen.io/luismartinezs/' target='_blank'>CodePen</a>, <a href='https://stackoverflow.com/users/2296052/user2296052' target='_blank'>Stack overflow</a></p><br />
         <p>Birth date: <span className='number'>13/08/1984</span></p><br />
         <p>Able and willing to travel to client sites or foreign offices as required</p><br />
         <p>Possibility to relocate as well as to work remotely</p>
@@ -155,7 +155,7 @@ my new skills into practice.</p><br />
     ],[ // PROJECTS
         <span>
         <ul>
-            <li><a href='http://luis-martinez.net/' target='_blank'>My website</a></li>
+            <li><a href='https://luismartinezs.github.io' target='_blank'>My website</a></li>
             <li><a href='https://luis-martinez-s.github.io/social-card/' target='_blank'>Social card</a></li>
             <li><a href='https://codepen.io/saito200/full/qJdXjY/' target='_blank'>Pomodoro clock</a></li>
             <li><a href='https://codepen.io/saito200/full/gBbbza/' target='_blank'>Retro calculator</a></li>
