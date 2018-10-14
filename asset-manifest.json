@@ -1,7 +1,7 @@
 {
   "main.css": "/ai-resume/static/css/main.a319ae4c.chunk.css",
-  "main.js": "/ai-resume/static/js/main.4359fe61.chunk.js",
-  "main.js.map": "/ai-resume/static/js/main.4359fe61.chunk.js.map",
+  "main.js": "/ai-resume/static/js/main.e9b40a7c.chunk.js",
+  "main.js.map": "/ai-resume/static/js/main.e9b40a7c.chunk.js.map",
   "static/js/1.e1ada48e.chunk.js": "/ai-resume/static/js/1.e1ada48e.chunk.js",
   "static/js/1.e1ada48e.chunk.js.map": "/ai-resume/static/js/1.e1ada48e.chunk.js.map",
   "runtime~main.js": "/ai-resume/static/js/runtime~main.16b4b358.js",
@@ -9,6 +9,6 @@
   "static/css/main.a319ae4c.chunk.css.map": "/ai-resume/static/css/main.a319ae4c.chunk.css.map",
   "static/media/App.css": "/ai-resume/static/media/hellovetica.88a9ffb8.ttf",
   "index.html": "/ai-resume/index.html",
-  "precache-manifest.846895aee932997d50a740e99aa75930.js": "/ai-resume/precache-manifest.846895aee932997d50a740e99aa75930.js",
+  "precache-manifest.7d13a9f269e6a17d36f0ef5c8f27f5a4.js": "/ai-resume/precache-manifest.7d13a9f269e6a17d36f0ef5c8f27f5a4.js",
   "service-worker.js": "/ai-resume/service-worker.js"
 }
